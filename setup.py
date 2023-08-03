@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from distutils.core import setup
+
 from pkg_resources import parse_requirements
 
 import hanja

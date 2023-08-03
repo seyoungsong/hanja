@@ -5,7 +5,6 @@ http://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99 를 참고.
 
 import warnings
 
-
 __all__ = ["is_hanja", "is_valid_mode", "split_hanja", "translate"]
 __author__ = "Sumin Byeon"
 __email__ = "suminb@gmail.com"
